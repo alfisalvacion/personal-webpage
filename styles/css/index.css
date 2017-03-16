@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'League Spartan';
+    src: url('fonts/LeagueSpartan-Bold.otf');
+    src: local('Riesling Regular'), local('Riesling'), url('fonts/riesling.ttf') format('truetype');
+}
+
 html {
     background: #001727;
     max-width: 100%;
